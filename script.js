@@ -69,6 +69,7 @@ var objects = {
       document.getElementById("success").style.display = "block";
       button.style.display = "none";
       document.getElementById("show").style.display = "block";
+       
     }
 
     var fullName = `${objects.fname} ${objects.lname}`;
